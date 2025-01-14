@@ -7,6 +7,8 @@ HTML 🖥️ (Turning "Hello, World!" into "Wow, Internet!")
 
 CSS 🎨 (Because who doesn't love pretty layouts?)
 
+C (my one core strength💪 and the life and sole of my KTU syllabus)
+
 Python 🐍 (Hissing my way into coding greatness!)
 
 And honestly, a bit of everything—call me the nerd!..I just love to learn
